@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://postimg.cc/Wh02pmXG" target="_blank" style="order: 2;">
-        <img src="https://i.postimg.cc/kXpDcfSp/banner.png" alt="banner" width="800" style="margin-left: 20px;"/>
-    </a>
-    <div style="flex-grow: 1; color: #000e53; order: 1;">
+    <div style="flex-grow: 1;color: #000e53;">
         <strong>Hablando de cosas personales:</strong>
         <ul style="list-style-type: none; padding-left: 0;">
             <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
@@ -44,6 +41,9 @@ Here are some ideas to get you started:
             </li>
         </ul>
     </div>
+    <a href="https://postimg.cc/Wh02pmXG" target="_blank">
+        <img src="https://i.postimg.cc/kXpDcfSp/banner.png" alt="banner" width="400" style="margin-left: 20px;"/>
+    </a>
 </div>
 
 <h2 style="color: #000e53;">Lenguajes y herramientas</h2>
