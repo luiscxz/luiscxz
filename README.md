@@ -2,51 +2,29 @@
 <div style="display: flex; justify-content: flex-end;">
     <a href="https://postimg.cc/R3bd0fbL" target="_blank">
         <img src="https://i.postimg.cc/cHdbXBR2/data.gif" alt="data-gif" width="100" style="margin-right: 10px;"/>
-    </a>
-    <span style="align-self: center; font-size: 18px; color: #000e53;"><strong>"Explorando el universo de la ciencia de datos, un dato a la vez". ¡Bienvenido!</strong></span>
+    </a><strong>
+        "Explorando el universo de la ciencia de datos, un dato a la vez". ¡Bienvenido!</strong></span>
 </div>
 
-<!--
-**luiscxz/luiscxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
+<!-- Talking about you -->
+**Hablando de cosas personales:**
 
-Here are some ideas to get you started:
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://i.postimg.cc/kXpDcfSp/banner.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex-grow: 1;color: #000e53;">
-        <strong>Hablando de cosas personales:</strong>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                🎓 Tengo un título en Ingeniería Oceanográfica.
-            </li>
-            <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                ⚡ Estoy estudiando un Master en Big data y Data Scientists.
-            </li>
-            <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                ✨ Me apasiona trabajar con datos.
-            </li>
-            <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                😄 Tengo experiencia procesando datos de sensores remotos.
-            </li>
-            <li style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                🤔 Buscando oportunidades laborales.
-            </li>
-        </ul>
-    </div>    <a href="https://postimg.cc/Wh02pmXG" target="_blank">
-        <img src="https://i.postimg.cc/kXpDcfSp/banner.png" alt="banner" width="400" style="margin-left: 20px;"/>
-    </a>
-</div>
+- 🎓 Tengo un título en Ingeniería Oceanográfica;
+- ⚡ Estoy estudiando un Master en Big data y Data Scientists;
+- ✨ Me apasiona trabajar con datos;
+- 😄 Tengo experiencia procesando datos de sensores remotos;
+- 🤔 Buscando oportunidades laborales;
 
+<br>
 
-<h2 style="color: #000e53;">Lenguajes y herramientas</h2>
+<br>
+<br>
+
+## Lenguajes y herramientas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
