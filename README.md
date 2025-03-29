@@ -13,10 +13,11 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://i.postimg.cc/kXpDcfSp/banner.png"/>
 
-- 🎓 Tengo un título en Ingeniería Oceanográfica;
-- ⚡ Estoy estudiando un Master en Big data y Data Scientists;
+- 🎓 Tengo un título en  Master en Big data y Data Scientists;
+- ⚡ Soy profesional en ingneria Oceanográfica;
 - ✨ Me apasiona trabajar con datos;
 - 😄 Tengo experiencia procesando datos de sensores remotos;
+- ✨ Tengo experiencia entrenando modelos de machine learning y deep learning;
 - 🤔 Buscando oportunidades laborales;
 
 <br>
